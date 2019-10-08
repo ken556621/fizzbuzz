@@ -1,5 +1,3 @@
-
-
 var should = chai.should();
 describe('function fizzBuzz', function(){
   it('input a number and devision by 3 and expect output : Fizz', function(){
